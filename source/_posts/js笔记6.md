@@ -1,5 +1,5 @@
 ---
-title: js笔记5
+title: js笔记6
 date: 2020-03-29 16:00:46
 tags:
     -js
